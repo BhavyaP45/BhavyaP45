@@ -1,6 +1,6 @@
 ## Hello World, I'm Bhavya Patel
 - I’m interested in data science and computer algorithms. Specifically, I am looking to attend many hackathons and other events in the upcoming months
-I- ’m currently learning Python Data Structures and Algorithms
+- I’m currently learning Python Data Structures and Algorithms
 
 <!---
 BhavyaP45/BhavyaP45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
