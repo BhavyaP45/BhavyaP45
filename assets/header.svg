@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="270" viewBox="0 0 960 270" role="img" aria-labelledby="title desc">
+  <title id="title">Bhavya Patel</title>
+  <desc id="desc">Computer Engineering at the University of Toronto. Building things. Looking under the hood.</desc>
+  <defs>
+    <linearGradient id="surface" x2="1" y2="0"><stop stop-color="#0c1d18"/><stop offset="1" stop-color="#132d23"/></linearGradient>
+    <pattern id="board" width="48" height="48" patternUnits="userSpaceOnUse" patternTransform="rotate(20)"><path d="M48 0H0V48" fill="none" stroke="#648773" stroke-width="1"/></pattern>
+    <linearGradient id="fade"><stop stop-color="white" stop-opacity="0"/><stop offset="1" stop-color="white" stop-opacity=".45"/></linearGradient>
+    <mask id="mask"><rect x="530" width="430" height="270" fill="url(#fade)"/></mask>
+  </defs>
+  <rect width="960" height="270" rx="4" fill="url(#surface)"/>
+  <rect x="530" width="430" height="270" fill="url(#board)" mask="url(#mask)"/>
+  <text x="44" y="55" font-family="Consolas,monospace" font-size="14" letter-spacing="1.1" fill="#a8bcb3">COMPUTER ENGINEERING / UNIVERSITY OF TORONTO</text>
+  <text x="42" y="155" font-family="Georgia,Times New Roman,serif" font-size="76" letter-spacing="-2" fill="#e1e9df">Bhavya Patel<tspan fill="#93b7a0">.</tspan></text>
+  <text x="44" y="211" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#b6c6bd">Building things. Looking under the hood.</text>
+</svg>
